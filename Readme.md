@@ -45,8 +45,6 @@ $data = json_decode($json, true);
 echo $data['phone_version'];
 ```
 
-## 📊 Histórico de Versões
-Veja todas as alterações no [CHANGELOG.md](CHANGELOG.md) (gerado automaticamente pelo GitHub Actions).
 
 ## 🤝 Contribuição
 1. Garanta que a versão é compatível com a [Evolution API](https://github.com/EvolutionAPI/evolution-api)
