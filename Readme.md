@@ -1,6 +1,3 @@
-Aqui está um modelo completo de `README.md` para seu repositório, com instruções claras para atualização e consulta da versão:
-
-```markdown
 # WhatsApp Web Version Tracker
 
 Repositório colaborativo para rastrear a versão mais recente do WhatsApp Web (Phone Version) usada pela Evolution API.
@@ -57,4 +54,4 @@ Veja todas as alterações no [CHANGELOG.md](CHANGELOG.md) (gerado automaticamen
 3. Atualize apenas quando necessário
 
 [![Update Version](https://img.shields.io/badge/Atualizar_Versão-Open_in_GitHub-blue?style=for-the-badge)](https://github.com/VelterGarcias/LATEST-WHATSAPP-SESSION_PHONE_VERSION/edit/main/version.txt)
-```
+
