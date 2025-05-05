@@ -55,3 +55,4 @@ Veja todas as alterações no [CHANGELOG.md](CHANGELOG.md) (gerado automaticamen
 
 [![Update Version](https://img.shields.io/badge/Atualizar_Versão-Open_in_GitHub-blue?style=for-the-badge)](https://github.com/VelterGarcias/LATEST-WHATSAPP-SESSION_PHONE_VERSION/edit/main/version.txt)
 
+ 
